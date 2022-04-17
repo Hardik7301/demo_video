@@ -1,0 +1,6 @@
+dataset link: https://www.kaggle.com/datasets/atulyakumar98/fire-and-gun-dataset
+gunandfire colabe:https://colab.research.google.com/drive/1sWzO-TRV0AnxJq7MX8f5hczOMmI4TV2l?authuser=5
+Git Gun and Fire:https://github.com/Hardik7301/Gun-and-Fire-Detection-
+Git Fighting Detection:https://github.com/Hardik7301/Fight-Detection
+
+Gun and Fire Detection Module: pip install opencv-python
