@@ -1,0 +1,13 @@
+1st week: Python and C++
+2nd week: Python Lib--> Pandas and Numpy
+3 week: Sklern and Algoritham
+4 week: Algo: Liner Regresion and Logistic Reg
+5 week: Decision Tree and Rendom Forest
+6 week:Make 1 task Stock Price Prediction Ioc  
+7 week: Make 2nd task Web Scraping
+8 week: Working Main task Abnormal Activity
+9 week: Learn About Yolo and Openpose 
+10 week: Implement in Pythin Technology
+11 week: Develop Fire and Gun Detection Model 
+12 week: Working 2nd module Fighting Detection model
+13 week: Develop C++ language.
